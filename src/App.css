@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.display {
+  font-size: 160px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid rgb(18, 18, 18);
+  background-color: rgb(10, 128, 225);
+  border-radius: 10px;
+}
+button{
+  font-size: larger;
+  margin: 14px;
+
+}
+.warning:hover{
+  color: rgb(39, 3, 101);
+  border: 2px solid rgb(91, 2, 76);
+  border-radius: 15px;
+}
+.success:hover{
+  color: rgb(18, 190, 5);
+  border: 2px solid rgb(7, 226, 22);
+  border-radius: 10px;
+}
+.danger:hover{
+  color: rgb(241, 30, 34);
+  border: 2px solid rgb(250, 37, 37);
+  border-radius: 10px;
+}
+.head {
+  text-align: center;
+  font-family: 'Arial Black',Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
